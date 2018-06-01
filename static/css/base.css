@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: helvetica, sans-serif;
-    background: #20B2AA;
+    /* background: rgb(78, 228, 8); */
 }
 
 h1,
@@ -129,7 +129,7 @@ ul.errorlist {
     padding: 10px 100px;
     font-size: 18px;
     overflow: auto;
-    background: #20B2AA;
+    background: rgb(36, 17, 201);
 }
 
 #subheader {
@@ -179,7 +179,7 @@ ul.errorlist {
 }
 
 #sidebar ul li.selected {
-    background: #5993bb;
+    background: #1f36b9;
     border-radius: 4px;
 }
 
@@ -245,7 +245,7 @@ ul.errorlist {
 }
 
 .order-info h3 {
-    color: #5993bb;
+    color: #f0f0f7;
 }
 
 .order-info ul li {
